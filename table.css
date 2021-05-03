@@ -1,0 +1,22 @@
+body {
+  background: url("https://images.pexels.com/photos/3937174/pexels-photo-3937174.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(61, 103, 192);
+}
+
+th,
+td {
+  border: 2px solid black;
+  width: 100px;
+}
+
+.tabl {
+  padding: auto;
+  margin: auto;
+  text-transform: uppercase;
+}
